@@ -1,3 +1,5 @@
+## 使用说明
+
 RHINO Coding Helper 旨在助您提高在 Github 上的开发工作的效率与质量。该GPT使用了开源项目https://github.com/OpenRHINO/code-chat-helper
 
 您可以试着问我如下问题：
