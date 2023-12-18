@@ -2,9 +2,9 @@ RHINO Coding Helper 旨在助您提高在 Github 上的开发工作的效率与�
 
 您可以试着问我如下问题：
 
-1. 解读Github上 LI-Mingyu/cloud-vm-init repo的源码文件 ubuntu-18.04.sh
+1. 解读 Github 上 LI-Mingyu/cloud-vm-init repo的源码文件 ubuntu-18.04.sh
 2. LI-Mingyu/cloud-vm-init 项目 enable-docker-compose 分支中的 ubuntu-18.04.sh 文件与主线相比做了哪些改动？
-3. 帮忙看一下PR https://github.com/OpenRHINO/code-chat-helper/pull/39 
+3. 审查PR：https://github.com/OpenRHINO/code-chat-helper/pull/39 
 4. 对于修复 LI-Mingyu/cloud-vm-init 项目的第 29 号 issue 你有什么想法？可能涉及的源码文件是 ubuntu-18.04.sh 
 5. 提一个 "Hello world!" comment 到 AssistantRHINO/GPT-RHINO-Coding-Helper 的 issue #1
    
